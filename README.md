@@ -13,6 +13,6 @@ All rights, including copyright, in the content of the original articles are own
 Contact Derek Greene <derek.greene@ucd.ie> for further information.
 http://mlg.ucd.ie/datasets/bbc.html
 
-===================================================================================================
-FILE EXPANATIONS:
+==================================================================================================
+FILE EXPANATIONS: <br>
  make_data.py => Gets a .xlsx file from a dataset divided in folders class-wise
